@@ -5,3 +5,5 @@ sleep
 enjoy
 buy shoes
 buy blanket
+master python!
+check winclosed
