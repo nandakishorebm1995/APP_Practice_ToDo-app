@@ -4,13 +4,11 @@ import time
 
 now = time.strftime('%b %d, %Y %H:%M:%S')
 print('It is', now)
-# Use of multi-line strings with triple quotes to print necessary info.
-# text = """
-# Principles of productivity:
-# - Managing your inflow
-# - Systemizing everything that repeats.
-# """
-# print(text)
+
+"""
+This project allows the user to add, show, edit and complete
+To-Do list items. 
+"""
 
 # Keep the loop running until exit option is selected
 while True:
