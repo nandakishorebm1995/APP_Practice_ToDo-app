@@ -6,7 +6,5 @@ enjoy
 buy shoes
 buy blanket
 master python!
-charging my phone
-make coffee
-bake cake
 buy avocados
+time-stamp working
